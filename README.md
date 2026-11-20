@@ -50,3 +50,5 @@ MSc thesis: *A Framework to Optimize Communication in Distributed Scrum Teams*. 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/mahlet-wondwosen) | [Portfolio](https://my-portfolio-dashboard-5d613.web.app/)
+
+[Full CV](https://github.com/mahiamu/mahiamu/blob/main/CV.md)
